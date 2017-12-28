@@ -1,0 +1,14 @@
+{
+  "name": "amp-playlists",
+  "description": "Playlists for Azure Media Player",
+  "version": "0.1.0",
+  "homepage": "",
+  "license": "MIT",
+  "copyright": "Antonio Laguna, Ori Ziv",
+  "main": "dist/amp-playlists.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "assert": "*"
+  }
+}
